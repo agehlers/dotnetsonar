@@ -1,0 +1,13 @@
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSAPI.deps.json
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSAPI.runtimeconfig.json
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSAPI.runtimeconfig.dev.json
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSAPI.dll
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSAPI.pdb
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSCommon.dll
+D:\projects\hets\Server\src\HETSAPI\bin\Debug\netcoreapp2.0\HETSCommon.pdb
+D:\projects\hets\Server\src\HETSAPI\obj\Debug\netcoreapp2.0\HETSAPI.csprojResolveAssemblyReference.cache
+D:\projects\hets\Server\src\HETSAPI\obj\Debug\netcoreapp2.0\HETSAPI.csproj.CoreCompileInputs.cache
+D:\projects\hets\Server\src\HETSAPI\obj\Debug\netcoreapp2.0\HETSAPI.AssemblyInfoInputs.cache
+D:\projects\hets\Server\src\HETSAPI\obj\Debug\netcoreapp2.0\HETSAPI.AssemblyInfo.cs
+D:\projects\hets\Server\src\HETSAPI\obj\Debug\netcoreapp2.0\HETSAPI.dll
+D:\projects\hets\Server\src\HETSAPI\obj\Debug\netcoreapp2.0\HETSAPI.pdb
