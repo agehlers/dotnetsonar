@@ -1,0 +1,4985 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.6.0.0",
+        "fileVersion": "2.6.0.62329 (5429b35d)",
+        "semanticVersion": "2.6.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'GroupApiUnitTest._GroupApi' is never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/GroupTestsUnit.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 36,
+                  "endLine": 14,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field '_GroupApi'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/GroupTestsUnit.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 3,
+                  "endLine": 14,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/AttachmentTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/AttachmentTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/AttachmentTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CityTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ContactTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ContactTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ContactTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ContactTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ContactTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ContactTests.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 16,
+                  "endLine": 109,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 16,
+                  "endLine": 84,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 16,
+                  "endLine": 93,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 16,
+                  "endLine": 102,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/CurrentUserViewModelTests.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 16,
+                  "endLine": 111,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DistrictTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DistrictTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DistrictTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DistrictTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DistrictTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 16,
+                  "endLine": 109,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 16,
+                  "endLine": 118,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 16,
+                  "endLine": 127,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 16,
+                  "endLine": 136,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 16,
+                  "endLine": 145,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 16,
+                  "endLine": 154,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 163,
+                  "startColumn": 16,
+                  "endLine": 163,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 172,
+                  "startColumn": 16,
+                  "endLine": 172,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 16,
+                  "endLine": 181,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 190,
+                  "startColumn": 16,
+                  "endLine": 190,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 199,
+                  "startColumn": 16,
+                  "endLine": 199,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 16,
+                  "endLine": 208,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 16,
+                  "endLine": 217,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 226,
+                  "startColumn": 16,
+                  "endLine": 226,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 235,
+                  "startColumn": 16,
+                  "endLine": 235,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 16,
+                  "endLine": 244,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 253,
+                  "startColumn": 16,
+                  "endLine": 253,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 262,
+                  "startColumn": 16,
+                  "endLine": 262,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 271,
+                  "startColumn": 16,
+                  "endLine": 271,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 280,
+                  "startColumn": 16,
+                  "endLine": 280,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 289,
+                  "startColumn": 16,
+                  "endLine": 289,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 298,
+                  "startColumn": 16,
+                  "endLine": 298,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 307,
+                  "startColumn": 16,
+                  "endLine": 307,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 316,
+                  "startColumn": 16,
+                  "endLine": 316,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 325,
+                  "startColumn": 16,
+                  "endLine": 325,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/DumpTruckTests.cs",
+                "region": {
+                  "startLine": 334,
+                  "startColumn": 16,
+                  "endLine": 334,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentAttachmentTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentAttachmentTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentAttachmentTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentAttachmentTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 16,
+                  "endLine": 109,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 16,
+                  "endLine": 118,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 16,
+                  "endLine": 127,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/EquipmentTypeTests.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 16,
+                  "endLine": 136,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupMembershipViewModelTests.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 16,
+                  "endLine": 84,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/GroupViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/HistoryTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/HistoryTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/LocalAreaTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/LocalAreaTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NoteTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NoteTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 16,
+                  "endLine": 84,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 16,
+                  "endLine": 93,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 16,
+                  "endLine": 102,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 16,
+                  "endLine": 111,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 16,
+                  "endLine": 120,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/NotificationViewModelTests.cs",
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 16,
+                  "endLine": 129,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 16,
+                  "endLine": 109,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 16,
+                  "endLine": 118,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 16,
+                  "endLine": 127,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 16,
+                  "endLine": 136,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 16,
+                  "endLine": 145,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 16,
+                  "endLine": 154,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 163,
+                  "startColumn": 16,
+                  "endLine": 163,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 172,
+                  "startColumn": 16,
+                  "endLine": 172,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 16,
+                  "endLine": 181,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 190,
+                  "startColumn": 16,
+                  "endLine": 190,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 199,
+                  "startColumn": 16,
+                  "endLine": 199,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 16,
+                  "endLine": 208,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 16,
+                  "endLine": 217,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 226,
+                  "startColumn": 16,
+                  "endLine": 226,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 235,
+                  "startColumn": 16,
+                  "endLine": 235,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 16,
+                  "endLine": 244,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 253,
+                  "startColumn": 16,
+                  "endLine": 253,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/OwnerTests.cs",
+                "region": {
+                  "startLine": 262,
+                  "startColumn": 16,
+                  "endLine": 262,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/PermissionTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/PermissionTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/PermissionTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/PermissionViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/PermissionViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/PermissionViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 16,
+                  "endLine": 109,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 16,
+                  "endLine": 118,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 16,
+                  "endLine": 127,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 16,
+                  "endLine": 136,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ProjectTests.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 16,
+                  "endLine": 145,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RegionTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RegionTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RegionTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RegionTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RentalAgreementTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RentalAgreementTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RentalAgreementTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RolePermissionTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RolePermissionTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RolePermissionViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RolePermissionViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RolePermissionViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/RoleViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 16,
+                  "endLine": 65,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 16,
+                  "endLine": 74,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 16,
+                  "endLine": 83,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 16,
+                  "endLine": 92,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 16,
+                  "endLine": 101,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 16,
+                  "endLine": 110,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 16,
+                  "endLine": 119,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 16,
+                  "endLine": 128,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 16,
+                  "endLine": 137,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 16,
+                  "endLine": 146,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 155,
+                  "startColumn": 16,
+                  "endLine": 155,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 164,
+                  "startColumn": 16,
+                  "endLine": 164,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 173,
+                  "startColumn": 16,
+                  "endLine": 173,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 182,
+                  "startColumn": 16,
+                  "endLine": 182,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 191,
+                  "startColumn": 16,
+                  "endLine": 191,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 200,
+                  "startColumn": 16,
+                  "endLine": 200,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/SeniorityAuditTests.cs",
+                "region": {
+                  "startLine": 209,
+                  "startColumn": 16,
+                  "endLine": 209,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ServiceAreaTests.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 16,
+                  "endLine": 65,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ServiceAreaTests.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 16,
+                  "endLine": 74,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ServiceAreaTests.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 16,
+                  "endLine": 83,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ServiceAreaTests.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 16,
+                  "endLine": 92,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/ServiceAreaTests.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 16,
+                  "endLine": 101,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 16,
+                  "endLine": 65,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 16,
+                  "endLine": 74,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 16,
+                  "endLine": 83,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 16,
+                  "endLine": 92,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 16,
+                  "endLine": 101,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 16,
+                  "endLine": 110,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 16,
+                  "endLine": 119,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 16,
+                  "endLine": 128,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/TimeRecordTests.cs",
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 16,
+                  "endLine": 137,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserDetailsViewModelTests.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 16,
+                  "endLine": 65,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserDetailsViewModelTests.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 16,
+                  "endLine": 74,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserDetailsViewModelTests.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 16,
+                  "endLine": 83,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserDetailsViewModelTests.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 16,
+                  "endLine": 92,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserDetailsViewModelTests.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 16,
+                  "endLine": 101,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserDetailsViewModelTests.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 16,
+                  "endLine": 110,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserFavouriteTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserFavouriteTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserFavouriteTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserFavouriteTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleViewModelTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleViewModelTests.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 16,
+                  "endLine": 66,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleViewModelTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 16,
+                  "endLine": 75,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleViewModelTests.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 16,
+                  "endLine": 84,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserRoleViewModelTests.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 16,
+                  "endLine": 93,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 16,
+                  "endLine": 64,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 16,
+                  "endLine": 73,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 16,
+                  "endLine": 82,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 16,
+                  "endLine": 91,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 16,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 16,
+                  "endLine": 109,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 16,
+                  "endLine": 118,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 16,
+                  "endLine": 127,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 16,
+                  "endLine": 136,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserTests.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 16,
+                  "endLine": 145,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserViewModelTests.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 16,
+                  "endLine": 65,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserViewModelTests.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 16,
+                  "endLine": 74,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserViewModelTests.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 16,
+                  "endLine": 83,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserViewModelTests.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 16,
+                  "endLine": 92,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/Models/UserViewModelTests.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 16,
+                  "endLine": 101,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_LocalArea' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/LocalAreaTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 40,
+                  "endLine": 37,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_ServiceAreaApi' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/ServiceAreaTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 42,
+                  "endLine": 37,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_Note' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/NoteTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 35,
+                  "endLine": 37,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_Contact' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/ContactTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 38,
+                  "endLine": 12,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_UserApi' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/UserTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 35,
+                  "endLine": 37,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_CurrentUser' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/CurrentUserTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 42,
+                  "endLine": 12,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_DistrictApi' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/DistrictTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 39,
+                  "endLine": 12,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_DumpTruck' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/DumpTruckTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 40,
+                  "endLine": 12,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_Owner' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/OwnerTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 36,
+                  "endLine": 37,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_EquipmentAttachment' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/EquipmentAttachmentTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 50,
+                  "endLine": 12,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_PermissionApi' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/PermissionTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 41,
+                  "endLine": 37,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_Equipment' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/EquipmentTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 40,
+                  "endLine": 12,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_Project' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/ProjectTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 38,
+                  "endLine": 37,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_EquipmentType' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/EquipmentTypeTestsUnit.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 44,
+                  "endLine": 12,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_RegionApi' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/RegionTestsUnit.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 37,
+                  "endLine": 36,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the '_RoleApi' field and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/projects/hets/Server/test/API/RoleTestsUnit.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 35,
+                  "endLine": 37,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Field is never used",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1135": {
+          "id": "S1135",
+          "shortDescription": "Track uses of \"TODO\" tags",
+          "fullDescription": "TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1135",
+          "properties": {
+            "category": "Info Code Smell",
+            "isEnabledByDefault": false
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Unnecessary"
+            ]
+          }
+        },
+        "S1450": {
+          "id": "S1450",
+          "shortDescription": "Private fields only used as local variables in methods should become local variables",
+          "fullDescription": "When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1450",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Unnecessary"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
