@@ -1,13 +1,14 @@
-FROM dotnet-20-rhel7:latest
+FROM registry.access.redhat.com/dotnet/dotnet-20-jenkins-slave-rhel7
 
 EXPOSE 8080
+USER 0
 
 ENV PATH=$HOME/.local/bin/:$PATH \
     LC_ALL=en_US.UTF-8 \
     LANG=en_US.UTF-8
-   
-ENV SUMMARY="Jenkins slave with chrome and firefox installed for use with functional/BDD tests that use BDDStack." \
-    DESCRIPTION=""
+
+ENV SUMMARY="Jenkins slave with DOTNET, Mono and Sonar Scanner with MSBuild" \
+    DESCRIPTION="This image allows for SonarQube scanning of DotNet applications"
 
 LABEL summary="$SUMMARY" \
       description="$DESCRIPTION" \
@@ -16,10 +17,6 @@ LABEL summary="$SUMMARY" \
       io.openshift.expose-services="8080:http" \
       io.openshift.tags="builder,jenkins-jnlp-chrome,jenkins-jnlp-firefox,jenkins-jnlp" \
       release="1"
-
-USER 0
-
-# Install Mono, Java JDK 8
 
 RUN pushd /opt \
     && yum install yum-utils \
@@ -39,6 +36,8 @@ RUN pushd /opt \
     && popd
 
 
+ENV OPENSHIFT_JENKINS_JVM_ARCH=x86_64
+
 USER 1001
 
-env PATH "$PATH:/usr/lib/sonar-scanner/" 
+ENV PATH "$PATH:/usr/lib/sonar-scanner/" 
