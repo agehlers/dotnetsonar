@@ -8,7 +8,7 @@ node('sonarrunner') {
         dir('sonar-runner') {
 	    try {
                 sh 'scan.sh'
-	    } 
+	    } finally {}
         }
 	
     }
