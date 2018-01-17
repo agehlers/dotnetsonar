@@ -1,4 +1,4 @@
-mono ~/Tools/ScannerMSBuild/SonarQube.Scanner.MSBuild.exe begin /d:sonar.login=XYZ /k:HETSSERVER
+mono find /home/username/ -name "*.err" begin /d:sonar.login=XYZ /k:HETSSERVER
 dotnet restore
 dotnet build
 dotnet test
