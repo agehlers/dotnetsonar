@@ -4,4 +4,4 @@ mono /usr/lib/sonar-scanner/SonarQube.Scanner.MSBuild.exe begin /d:sonar.host.ur
 dotnet restore
 dotnet build
 dotnet test
-mono ~/Tools/ScannerMSBuild/SonarQube.Scanner.MSBuild.exe end
+mono /usr/lib/sonar-scanner/SonarQube.Scanner.MSBuild.exe end
