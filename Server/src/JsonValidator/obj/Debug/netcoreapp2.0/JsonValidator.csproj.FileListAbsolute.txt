@@ -1,0 +1,15 @@
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\JsonValidator.deps.json
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\JsonValidator.runtimeconfig.json
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\JsonValidator.runtimeconfig.dev.json
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\JsonValidator.dll
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\JsonValidator.pdb
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\HETSAPI.dll
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\HETSCommon.dll
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\HETSAPI.pdb
+D:\projects\hets\Server\src\JsonValidator\bin\Debug\netcoreapp2.0\HETSCommon.pdb
+D:\projects\hets\Server\src\JsonValidator\obj\Debug\netcoreapp2.0\JsonValidator.csprojResolveAssemblyReference.cache
+D:\projects\hets\Server\src\JsonValidator\obj\Debug\netcoreapp2.0\JsonValidator.csproj.CoreCompileInputs.cache
+D:\projects\hets\Server\src\JsonValidator\obj\Debug\netcoreapp2.0\JsonValidator.AssemblyInfoInputs.cache
+D:\projects\hets\Server\src\JsonValidator\obj\Debug\netcoreapp2.0\JsonValidator.AssemblyInfo.cs
+D:\projects\hets\Server\src\JsonValidator\obj\Debug\netcoreapp2.0\JsonValidator.dll
+D:\projects\hets\Server\src\JsonValidator\obj\Debug\netcoreapp2.0\JsonValidator.pdb
