@@ -7,7 +7,7 @@ node('sonarrunner') {
         checkout scm
         dir('sonar-runner') {
 	    try {
-                sh 'scan.sh'
+                sh './scan.sh'
 	    } finally {}
         }
 	
