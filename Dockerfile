@@ -15,7 +15,7 @@ LABEL summary="$SUMMARY" \
       io.k8s.description="$DESCRIPTION" \
       io.k8s.display-name="Jenkins-Pipeline-SonarScanner-dotnet" \
       io.openshift.expose-services="8080:http" \
-      io.openshift.tags="builder,jenkins-jnlp-chrome,jenkins-jnlp-firefox,jenkins-jnlp" \
+      io.openshift.tags="builder,jenkins-jnlp" \
       release="1"
 
 RUN pushd /opt \
