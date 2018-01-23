@@ -36,7 +36,6 @@ RUN pushd /opt \
 
 
 ENV OPENSHIFT_JENKINS_JVM_ARCH=x86_64
+ENV PATH "$PATH:/usr/lib/sonar-scanner/" 
 
 USER 1001
-
-ENV PATH "$PATH:/usr/lib/sonar-scanner/" 
